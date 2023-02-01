@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou Focado em Python
 - 🌱 Atualmente estou aprendendo Python
-- 🤔 Estou procurando ajuda com Python
 - 💬 Pergunte-me sobre Python
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: ...
