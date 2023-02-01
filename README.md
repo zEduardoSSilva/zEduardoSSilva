@@ -1,6 +1,6 @@
 ### Olá eu Sou o Eduardo Sousa 👋✨
 
-- 🔭 Atualmente estou trabalhando como Analista Financeiro
+- 🔭 Atualmente estou Focado em Python
 - 🌱 Atualmente estou aprendendo Python
 - 🤔 Estou procurando ajuda com Python
 - 💬 Pergunte-me sobre Python
