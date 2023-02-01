@@ -1,16 +1,47 @@
-### Hi there 👋
+### Olá eu Sou o Eduardo Sousa 👋✨
 
-<!--
-**zEduardoSSilva/zEduardoSSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando como Analista Financeiro
+- 🌱 Atualmente estou aprendendo Python
+- 🤔 Estou procurando ajuda com Python
+- 💬 Pergunte-me sobre Python
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidade: ...
 
-Here are some ideas to get you started:
+##                                                                                                    
+                                                                                                       
+![Snake animation](https://github.com/zEduardoSSilva/zEduardoSSilva/blob/output/github-contribution-grid-snake.svg)
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/zEduardoSSilva">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zEduardoSSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zEduardoSSilva&layout=compact&langs_count=7&theme=dracula"/>
+  
+</div>
+  
+## Estou Aprendendo
+  
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Dev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+</div>
+  
+## Minhas Redes
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC1FJx6T_19SnlVg_01XYbUw"_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_duh_s_silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/zcountdown" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:eduardossilva12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-sousa-4672aab5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+##
+  
+ </br>
+<p align="left">   
+   <img alingn="left" src="https://profile-counter.glitch.me/zEduardoSSilva/count.svg" /></p>
+ 
+ ##
