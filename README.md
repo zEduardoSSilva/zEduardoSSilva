@@ -1,7 +1,7 @@
 ### Olá eu Sou o Eduardo Sousa 👋✨
 
-- 🔭 Atualmente estou Focado em Python
-- 🌱 Atualmente estou aprendendo Python
+- 🔭 Atualmente estou Focado em DAX
+- 🌱 Aprendendo Python/ PHP/ SQL/ DAX
 - 💬 Pergunte-me sobre Python
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: ...
